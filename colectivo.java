@@ -20,8 +20,8 @@ public class colectivo
         n = Teclado.nextDouble();
         
         viaj = Math.ceil(n/cap);
-        gan = n*10000;
-        prop = n*2000;
+        gan = n*tk;
+        prop = n*cost;
                  
         System.out.println("La cantidad de viajes es " + viaj);
         System.out.println("Todos los turistas pagaron " + "$" + gan + "CoP");
