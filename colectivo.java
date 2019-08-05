@@ -24,8 +24,8 @@ public class colectivo
         prop = n*cost;
                  
         System.out.println("La cantidad de viajes es " + viaj);
-        System.out.println("Todos los turistas pagaron " + "$" + gan + "CoP");
-        System.out.println("El conductor paga al propietario " + "$" + prop + "CoP");
+        System.out.println("Todos los turistas pagaron " + "$" + gan + " CoP");
+        System.out.println("El conductor paga al propietario " + "$" + prop + " CoP");
 
     }
 }
